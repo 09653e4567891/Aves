@@ -1,0 +1,6 @@
+{
+  "name": "Aves Liquid Glass",
+  "description": "LSPosed module & companion app providing AGSL liquid glass shaders and blur replacement for Aves Gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
